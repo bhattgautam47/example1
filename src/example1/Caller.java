@@ -5,6 +5,8 @@ public class Caller {
 		Listeg l = new Listeg();
 		System.out.println(l.add(2,6));
 		System.out.println("Hi");
+		System.out.println("Bugfix");
+		
 	}
 
 }
